@@ -1,6 +1,7 @@
 div {
     position: fixed;
     display: flex;
+    background-color: gainsboro;
     top: 5%;
     bottom: 5%;
     left: 50%;
